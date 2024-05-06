@@ -1,6 +1,8 @@
 # 2024.YC.DAC_Ver-1.0
 Yeongju City Data Analysis Contest - 영주시 데이터분석 공모전
 
+<img src="https://img.shields.io/badge/#276DC3?style=for-the-badge&logo=r&logoColor=white" width="126" height="36" />
+
 -----
 ## 연구 요약
 - 2011년부터 2020년까지 영주시 청년 인구가 41.4%까지 감소한 상황이다.
