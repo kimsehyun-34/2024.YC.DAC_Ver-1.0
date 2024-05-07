@@ -5,7 +5,7 @@ Yeongju City Data Analysis Contest - 영주시 데이터분석 공모전
   <img style="float:left" src="https://img.shields.io/badge/R-276DC3?style=flat-square&amp;logo=r&amp;ogoColor=white" width="auto" height="40" />
   <img style="float:left" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" width="auto" height="40" />
   <img style="float:left" src="https://img.shields.io/badge/QGIS-589632?style=flat-square&amp;logo=qgis&amp;logoColor=white" width="auto" height="40" />
-  <img style="float:left" src="https://img.shields.io/badge/googlecolab-F9AB00?style=flat-square&amp;logo=google colab&amp;logoColor=white" width="auto" height="40" />
+  <img style="float:left" src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&amp;logo=google colab&amp;logoColor=white" width="auto" height="40" />
 </div>
 
 -----
