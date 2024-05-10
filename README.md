@@ -67,3 +67,15 @@ Yeongju City Data Analysis Contest - 영주시 데이터분석 공모전
 
  - ## 영주 풍기읍
   <img style="text-align:center;" src="https://github.com/FURY312/2024.YC.DAC_Ver-1.0/blob/main/README_img/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-05-10%20153954.png" width="1000px" height="aoto"/>
+
+------------
+# 참고문헌
+
+ - [1] 이유재(1994). 상호작용효과를 포함한 다중회귀분석에서 주효과의 검증에 대한 연구, 경영학연구.
+ - [2] 고정우, 이주림, 구자훈. (2023). 대도시 및 중소도시 입지별 혁신도시의 청년인구 유입효과 비교분석. 한국지역개발학회지, 35(2), 45-68.
+ - [3] 김재환, 이민구(2018). 의사 결정 트리와 랜덤 포레스트 모델 분석, 한국정보기술학회, 한국디지털콘텐츠학회
+ - [4] 박태일. "인공지능 알고리즘과 최적화 기법의 결합을 통한 비선형 회귀 알고리즘 개발." 국내석사학위논문 한국항공대학교 일반대학원, 2023. 경기도
+ - [5] 이광원. (2023). 위계적 다중 회귀분석을 활용한 지방소멸 요인이 핵심생산가능인구의 순이동에 미치는 영향. 한국정책과학학회보, 27(3), 131-155, 10.31553/kpsr.2023.9.27.3.131
+ - [6] 손창희, 장한두. (2019). 지방도시의 노후주거지 정비와 관리 정책에 관한 연구 - 주거환경개선사업의 도시규모별 대안을 중심으로 -. 주거환경, 17(2), 197-214.
+ - [7] 조현영, 이상복, 김홍렬, 외 2인, (2012). 전국 도서관 통계 조사지표 개선 연구, 문화체육관광부.
+ - [8]J. T. Park and H. S. Jang, “A Regional Comparison Study for the Variability of Employment Statistics in Korean Young Man: Focus on EconomicallyActive Population Rate, Employment Population Rate, Unemployment Rate,” Journal of Service Research and Studies, vol. 5, no. 1, pp. 35–43, Mar. 2015.
