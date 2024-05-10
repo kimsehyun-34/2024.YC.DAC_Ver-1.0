@@ -10,7 +10,7 @@ Yeongju City Data Analysis Contest - 영주시 데이터분석 공모전
 </div>
 
 -----
-## 연구 요약
+# 연구 요약
 - 2011년부터 2020년까지 영주시 청년 인구가 41.4%까지 감소한 상황이다.
 - 2024년을 시작으로 사회와 환경적으로 문제가 되고 있는 빈집을 매입해 주민 공유시설로 조성하는 빈집 정비활용 사업을 추진하고 있다. 
 - 이에 따라, 본 연구에서 청년 소멸지역으로 손꼽히는 영주시에 어떠한 청년시설이 어느 지역에 들어가야 청년 인구 증가에 효과적인지 알아보았다. 
@@ -18,7 +18,7 @@ Yeongju City Data Analysis Contest - 영주시 데이터분석 공모전
 
 -----
 
-## 분석 데이터
+# 분석 데이터
 
 - ### 인구 데이터
   - 행정안전부, 주민등록 인구통계
@@ -51,4 +51,19 @@ Yeongju City Data Analysis Contest - 영주시 데이터분석 공모전
   - 커뮤니티 시설 - 중소벤처기업부 상권정보 누리집
   - 편의점 & 슈퍼마켓 - 중소벤처기업부 상권정보 누리집
 
+-------------
+# 전처리 & 분석
 
+ - ## 다중공선성 & 다중선형휘귀
+  <img style="text-align:center;" src="https://github.com/FURY312/2024.YC.DAC_Ver-1.0/blob/main/README_img/1.png" width="1000px" height="aoto"/>
+
+ - ## Grid Search
+  <img style="text-align:center;" src="https://github.com/FURY312/2024.YC.DAC_Ver-1.0/blob/main/README_img/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-05-10%20153924.png" width="1000px" height="aoto"/>
+
+-------------
+# 분석결과
+ - ## 영주 1, 2 동
+  <img style="text-align:center;" src="https://github.com/FURY312/2024.YC.DAC_Ver-1.0/blob/main/README_img/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-05-10%20153939.png" width="1000px" height="aoto"/>
+
+ - ## 영주 풍기읍
+  <img style="text-align:center;" src="https://github.com/FURY312/2024.YC.DAC_Ver-1.0/blob/main/README_img/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7%202024-05-10%20153954.png" width="1000px" height="aoto"/>
